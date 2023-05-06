@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+.nav-link:hover {
+    background-color: #1183fc;
+    color: white;
+    border-radius: 1rem;
+}
+
+.nav-link {
+    margin: 0 0.5rem;
+}
+
+.main-h1 {
+    font-family: 'Rubik';
+    font-size: 350%;
+    font-weight:800;
+    text-align: center;
+    margin-top: 15rem;
+}
+
+.btn-container {
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.btn{
+    margin: 0 8rem;
+    padding: 1rem 8rem;
+}
+
+.mb-md-0{
+    margin-right: 38rem;
+}
+
+nav {
+    margin-top: 10rem;
+}
